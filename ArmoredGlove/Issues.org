@@ -1,0 +1,25 @@
+Armored Glove Issues:
+
+*  ######### Resolved Issues ######### *
+*** DONE 1. Figure out what game we will develop
+*** DONE 2. Update README.md and issues.org
+
+*** DONE 3. Get evryone in group on repo. PLZ ADD NAME TO README
+*** DONE 4. Get basic grid map implimented so someone can start improving on it.
+* ######### Current Issues ######### *
+*** 5. Get basic networked infrastructure created
+*** 6. Get diagnal movement implimented
+
+** ########### Create New Issue ############# **
+*** 7.
+* ############ NOTES ##################### *
+HOW TO USE EMACS ORG_MODE:
+
+- go to begining of line:                control-a
+- go to end of line:                     control-e
+- cut line to clipboard:                 control-k
+- paste clipboard:                       control-y
+- save file:                             control-x control-s
+- close emacs:                           control-x control-c
+- expand TODO list:                      tab
+- change line from TODO to DONE:         shift-arrow keys to cycle through
